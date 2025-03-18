@@ -53,6 +53,13 @@ The extension requests the following permissions:
   - **`*://mail.google.com/*`**: Grants access to Gmail pages to read email content and insert generated replies.
 
 
+## Backend
+The backend of this extension is built using **Spring Boot**, a powerful Java-based framework for building web applications and microservices. The backend handles the AI-powered email reply generation and tone selection logic.
+
+The backend is deployed using **Koyeb**, a modern platform for deploying and scaling applications. Koyeb provides seamless deployment, automatic scaling, and global load balancing, ensuring the backend is always available and responsive.
+
+
+
 ## Contributing
 We welcome contributions! Please follow these steps if you would like to contribute:
 
