@@ -58,6 +58,7 @@ The backend of this extension is built using **Spring Boot**, a powerful Java-ba
 
 The backend is deployed using **Koyeb**, a modern platform for deploying and scaling applications. Koyeb provides seamless deployment, automatic scaling, and global load balancing, ensuring the backend is always available and responsive.
 
+![aiEmail](aiEmail.png)
 
 
 ## Contributing
