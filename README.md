@@ -35,7 +35,7 @@ The **Email Writer Assistant** is a Chrome extension designed to help users gene
    - Open a new reply mail.
 
 3. **Select the Tone** (Optional):
-   - Choose a tone for your reply (Professional, Casual, Friendly) from the dropdown menu, (professional by default).
+   - Choose a tone for your reply (Professional, Casual, Friendly) from the dropdown menu, (Professional by default).
 
 4. **Generate Reply**:
    - Click the **Generate Reply** button to get an AI-generated response based on the email content and tone selected.
