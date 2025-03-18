@@ -32,16 +32,19 @@ The **Email Writer Assistant** is a Chrome extension designed to help users gene
    - Click the extension icon in your toolbar to open the interface.
    
 2. **Enter the Email Content**:
-   - Paste or type the content of the email you want to reply to in the **Original Email Content** field.
+   - Open a new reply mail.
 
 3. **Select the Tone** (Optional):
-   - Choose a tone for your reply (Professional, Casual, Friendly) from the dropdown menu.
+   - Choose a tone for your reply (Professional, Casual, Friendly) from the dropdown menu, (professional by default).
 
 4. **Generate Reply**:
    - Click the **Generate Reply** button to get an AI-generated response based on the email content and tone selected.
 
 5. **Copy to Clipboard**:
    - After the reply is generated, click the **Copy to Clipboard** button to copy the reply and use it in your email draft.
+
+
+  ![aiEmail](aiEmail.png)
 
 ## Permissions
 The extension requests the following permissions:
@@ -58,7 +61,7 @@ The backend of this extension is built using **Spring Boot**, a powerful Java-ba
 
 The backend is deployed using **Koyeb**, a modern platform for deploying and scaling applications. Koyeb provides seamless deployment, automatic scaling, and global load balancing, ensuring the backend is always available and responsive.
 
-![aiEmail](aiEmail.png)
+
 
 
 ## Contributing
