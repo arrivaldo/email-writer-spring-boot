@@ -61,3 +61,7 @@ We welcome contributions! Please follow these steps if you would like to contrib
 - Commit your changes (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature-branch).
 - Submit a pull request.
+
+
+License
+This extension is licensed under the https://engineerick-portfolio.vercel.app/ License.
