@@ -63,5 +63,5 @@ We welcome contributions! Please follow these steps if you would like to contrib
 - Submit a pull request.
 
 
-License
+## License
 This extension is licensed under the https://engineerick-portfolio.vercel.app/ License.
