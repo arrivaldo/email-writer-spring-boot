@@ -15,9 +15,9 @@ The **Email Writer Assistant** is a Chrome extension designed to help users gene
 
 ### Steps to Install:
 1. **Visit the Chrome Web Store**:
-   - Go to the [Chrome Web Store](https://chrome.google.com/webstore).
+   - Go to the [Chrome Web Store](https://chromewebstore.google.com/detail/email-writer-assistant/bkpahmihgmehmppafbnmonmagfohckno).
    
-2. **Search for "Email Writer Assistant"**:
+2. **Or Search for "Email Writer Assistant"**:
    - Type "Email Writer Assistant" in the search bar and find the extension.
 
 3. **Add the Extension**:
